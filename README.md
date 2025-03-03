@@ -3,3 +3,4 @@
 I'm learning:
 - 🤖 GDScript
 - 🦀 Rust
+- 🐍 Python
